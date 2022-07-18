@@ -1,2 +1,2 @@
 # exchangeBot
-Telegram bot for cirrency exchange
+Telegram bot for currency exchange
